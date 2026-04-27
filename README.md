@@ -9,7 +9,7 @@ Computer Science Engineering student at **ESI Algiers** passionate about **AI, m
 - Email: **ot_zerroug@esi.dz**
 - Phone: **+213 54 97 24 816**
 - GitHub: [github.com/tedjjj](https://github.com/tedjjj)
-- Portfolio: [capable-biscuit-e91d1f.netlify.app](https://capable-biscuit-e91d1f.netlify.app/)
+- Portfolio: [capable-biscuit-e91d1f.netlify.app](https://tedjjj.netlify.app//)
 
 I build practical digital products that combine strong technical foundations with clean, modern interfaces.  
 My work focuses on solving real problems through data, intelligent systems, and scalable web applications.

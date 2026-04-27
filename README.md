@@ -1,64 +1,191 @@
-# Tadj El Islam Zerroug - Portfolio
+<div align="center">
 
-Computer Science Engineering student at **ESI Algiers** passionate about **AI, machine learning, and full-stack web development**.
+<img src="https://avatars.githubusercontent.com/u/223034880?v=4" width="120" style="border-radius: 50%"/>
 
-## About Me
+# Tadj El Islam Zerroug
+### 🤖 AI Engineer & Full Stack Developer
 
-- Name: **Tadj El Islam Zerroug**
-- Location: **Setif / Algiers, Algeria**
-- Email: **ot_zerroug@esi.dz**
-- Phone: **+213 54 97 24 816**
-- GitHub: [github.com/tedjjj](https://github.com/tedjjj)
-- Portfolio: [capable-biscuit-e91d1f.netlify.app](https://tedjjj.netlify.app//)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tedjjj.netlify.app-4CAF50?style=for-the-badge)](https://tedjjj.netlify.app/)
+[![Email](https://img.shields.io/badge/📧_Email-ot__zerroug@esi.dz-D14836?style=for-the-badge)](mailto:ot_zerroug@esi.dz)
+[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-+213_549_724_816-25D366?style=for-the-badge)](https://wa.me/2130549724816)
 
-I build practical digital products that combine strong technical foundations with clean, modern interfaces.  
-My work focuses on solving real problems through data, intelligent systems, and scalable web applications.
+![Profile Views](https://komarev.com/ghpvc/?username=tedjjj&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-## Education
+</div>
 
-**State Engineer in Computer Science (2024 - Present)**  
-Higher National School of Computer Science (ESI), Algiers - Algeria
+---
 
-## Featured Projects
+## 👨‍💻 About Me
 
-### 1) Sign Language Translator (Deep Learning)
-- Real-time sign language recognition from webcam feed
-- Built with **TensorFlow, Keras, OpenCV**
-- Trained CNN model for **25 ASL gestures** (~80% accuracy)
-- Implemented live hand-region preprocessing and instant prediction
+```python
+class TadjElIslamZerroug:
+    name       = "Tadj El Islam Zerroug"
+    age        = 19
+    location   = "Sétif / Algiers, Algeria 🇩🇿"
+    school     = "ESI Algiers — State Engineer in CS"
+    focus      = ["AI Agentic Systems", "Deep Learning", "Full Stack Dev"]
+    languages  = ["Arabic 🇩🇿", "French 🇫🇷", "English 🇬🇧 ", "German 🇩🇪 "]
+    open_to    = ["Internships", "Collaborations", "AI Projects"]
+```
 
-### 2) AI-Powered E-Commerce Customer Support Agent
-- Freelance multi-agent assistant for online stores
-- Built with **LangGraph, LangChain, Groq LLM, SQLite**
-- Automatically classifies messages and routes them to specialized agents
-- Escalates sensitive complaints/refunds for manual review
+- 🎓 **State Engineering student** @ ESI Algiers (Algeria's top CS school)
+- 🤖 Building **multi-agent AI systems** with LangGraph & LangChain
+- 🧠 Passionate about **RAG pipelines**, **Deep Learning** and **Computer Vision**
+- 🏛️ Developed a platform for the **Algerian Ministry of Higher Education**
+- 💡 Active in **School of AI Algiers** and **ETIC Club ESI**
 
-### 3) Internship Funding Management Platform
-- Full-stack platform for the Algerian Higher Education Ministry
-- Digitizes internship funding workflows at national scale
-- Covers submission, document handling, eligibility checks, and approvals
+---
 
-## Technical Skills
+## 🚀 Featured Projects
 
-- AI Agentic Systems
-- Machine Learning / Deep Learning
-- Front-End Development
-- UI/UX Design
-- Databases and Data Structures
-- Data Science
-- 3D Design
+<table>
+<tr>
+<td width="50%">
 
-## Activities
+### 🤖 RAG Research Chatbot
+AI-powered chatbot for the **Algerian Ministry of Higher Education** that answers researcher queries using RAG.
+- LLM-based question classification
+- FAISS vector store + HuggingFace embeddings
+- SQLite for human review queue
+- **LangGraph · LangChain · Groq · FAISS · Django**
 
-- Active member at **ETIC Club Algiers**
-- Active member at **School of AI Algiers**
-- Participant in **AI Camp (School of AI)**
-- Participant in **Ideathon**
+</td>
+<td width="50%">
+
+### 🛍️ E-Commerce Support Agent
+Intelligent multi-agent system that autonomously handles online store customer messages.
+- Natural language order processing
+- Live SQLite database querying
+- Auto-escalation for complaints and refunds
+- **LangGraph · LangChain · Groq · SQLite**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤟 Sign Language Translator
+Real-time ASL gesture recognition from webcam feed.
+- 25 American Sign Language gestures
+- CNN trained on 28×28 grayscale — **80% accuracy**
+- Live hand region extraction pipeline
+- **TensorFlow · Keras · OpenCV · Python**
+
+</td>
+<td width="50%">
+
+### 🏛️ Internship Funding Platform
+Full-stack platform for the **Algerian Ministry** to manage researcher internship funding nationwide.
+- Complete funding lifecycle management
+- Document management and eligibility verification
+- **Django · Full Stack · SQLite**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🌐 Web & Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tedjjj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedjjj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tedjjj&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tedjjj&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
 
 
-## Contact
 
-If you are looking for a motivated junior engineer for internships, collaborations, or AI/web projects, feel free to reach out:
+<div align="center">
 
-- **Email:** [ot_zerroug@esi.dz](mailto:ot_zerroug@esi.dz)
-- **GitHub:** [github.com/tedjjj](https://github.com/tedjjj)
+
+
+</div>
+
+---
+
+## 🎯 Activities & Community
+
+| Activity | Period | Role |
+|----------|--------|------|
+| 🧠 School of AI Algiers — AI Camp | Nov 2025 – Jan 2026 | Participant |
+| 💡 ETIC Club ESI Algiers | 2024 – Present | Active Member |
+| 🏆 IDEATHON | 2024 | Participant |
+| 🎓 ESI Algiers | Sept 2024 – Present | State Engineering Student |
+
+---
+
+## 🌐 Languages
+
+
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-4CAF50?style=for-the-badge)](https://tedjjj.netlify.app/)
+[![Email](https://img.shields.io/badge/📧_Send_Email-D14836?style=for-the-badge)](mailto:ot_zerroug@esi.dz)
+[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp_Me-25D366?style=for-the-badge)](https://wa.me/2130549724816)
+
+---
+
+*"Building intelligent systems that solve real problems."* 🚀
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
